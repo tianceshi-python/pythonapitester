@@ -1,0 +1,336 @@
+2019-01-28 11:10:12,265 - simpleExample - INFO - starttest
+2019-01-28 11:10:12,437 - simpleExample - INFO - 邀请入会
+2019-01-28 11:10:18,589 - simpleExample - INFO - 查询会议状态
+2019-01-28 11:10:19,789 - simpleExample - INFO - 全体禁言
+2019-01-28 11:10:20,950 - simpleExample - INFO - 查询会议状态，check全体禁言
+2019-01-28 11:10:22,160 - simpleExample - INFO - 全体解除禁言
+2019-01-28 11:10:23,335 - simpleExample - INFO - 查询会议状态，check全体解除禁言
+2019-01-28 11:10:24,513 - simpleExample - INFO - 设置主画面
+2019-01-28 11:10:25,680 - simpleExample - INFO - 查询会议状态，check主画面
+2019-01-28 11:10:26,862 - simpleExample - INFO - 踢人
+2019-01-28 11:10:28,042 - simpleExample - INFO - 查询会议状态，踢人
+2019-01-28 11:10:30,069 - simpleExample - INFO - 邀请入会
+2019-01-28 11:10:40,308 - simpleExample - INFO - 查询会议状态
+2019-01-28 11:10:41,523 - simpleExample - INFO - 禁言
+2019-01-28 11:10:42,926 - simpleExample - ERROR - 查询会议状态,禁言: u'"muteStatus":0,"device":{"id":20477496' not found in u'{"meetingRoomNumber":"9000043836@CONFNO","meetingName":"yunyunyun","mode":1,"mainVenue":null,"mainImage":null,"deviceStatusList":[{"name":"ME20","muteStatus":1,"device":{"id":20477496,"type":8,"participantId":"65664","externalUserId":null,"participantNumber":"20310852"}},{"name":"NE60_\u897f\u5b89","muteStatus":1,"device":{"id":21417994,"type":2,"participantId":"65600","externalUserId":null,"participantNumber":"673492"}}],"handUpList":[],"recordingDevice":null,"contentDevice":null,"whiteBoardDevice":null}'
+2019-01-28 11:10:42,926 - simpleExample - ERROR - https://cloud.xylink.com/api/rest/external/v1/conferenceControl/9000043836/meetingStatus?enterpriseId=e608e0f43963706372c006235c79d01890e82966&signature=3CscYSsCrKDnIaQ26gAv5B3PY6igCX%2BdRFCE7U1o8y8%3D
+2019-01-28 11:10:42,926 - simpleExample - ERROR - None
+2019-01-28 11:10:42,937 - simpleExample - ERROR - {"meetingRoomNumber":"9000043836@CONFNO","meetingName":"yunyunyun","mode":1,"mainVenue":null,"mainImage":null,"deviceStatusList":[{"name":"ME20","muteStatus":1,"device":{"id":20477496,"type":8,"participantId":"65664","externalUserId":null,"participantNumber":"20310852"}},{"name":"NE60_西安","muteStatus":1,"device":{"id":21417994,"type":2,"participantId":"65600","externalUserId":null,"participantNumber":"673492"}}],"handUpList":[],"recordingDevice":null,"contentDevice":null,"whiteBoardDevice":null}
+2019-01-28 11:10:42,941 - simpleExample - INFO - 结束会议
+2019-01-28 11:10:43,118 - simpleExample - INFO - 
+2019-01-28 11:10:43,118 - simpleExample - INFO - 预约直播
+2019-01-28 11:10:45,423 - simpleExample - INFO - 查询直播
+2019-01-28 11:10:46,651 - simpleExample - INFO - 修改直播
+2019-01-28 11:10:48,851 - simpleExample - INFO - 修改后查询直播
+2019-01-28 11:10:50,115 - simpleExample - INFO - 邀请入会
+2019-01-28 11:10:56,171 - simpleExample - INFO - 查询会议状态
+2019-01-28 11:10:57,384 - simpleExample - INFO - 开始直播
+2019-01-28 11:11:04,293 - simpleExample - INFO - 开始后查询直播
+2019-01-28 11:11:05,516 - simpleExample - INFO - 设置人物布局
+2019-01-28 11:11:06,696 - simpleExample - INFO - 设置content布局
+2019-01-28 11:11:07,875 - simpleExample - INFO - 停止直播
+2019-01-28 11:11:14,197 - simpleExample - INFO - 停止后查询直播
+2019-01-28 11:11:15,411 - simpleExample - INFO - 删除直播
+2019-01-28 11:11:16,608 - simpleExample - INFO - 删除后查询直播
+2019-01-28 11:11:17,809 - simpleExample - INFO - 结束会议
+2019-01-28 11:11:17,984 - simpleExample - INFO - 获取当前直播的视频列表
+2019-01-28 11:11:19,196 - simpleExample - INFO - 预约直播
+2019-01-28 11:11:21,466 - simpleExample - INFO - 查询直播
+2019-01-28 11:11:22,729 - simpleExample - INFO - 修改直播
+2019-01-28 11:11:24,928 - simpleExample - INFO - 修改后查询直播
+2019-01-28 11:11:26,186 - simpleExample - INFO - 修改直播
+2019-01-28 11:11:28,381 - simpleExample - INFO - 修改后查询直播
+2019-01-28 11:11:29,653 - simpleExample - INFO - 邀请入会
+2019-01-28 11:11:35,789 - simpleExample - INFO - 查询会议状态
+2019-01-28 11:11:36,007 - simpleExample - INFO - 开始直播
+2019-01-28 11:11:42,792 - simpleExample - INFO - 开始后查询直播
+2019-01-28 11:11:44,045 - simpleExample - INFO - 设置人物布局
+2019-01-28 11:11:46,227 - simpleExample - INFO - 设置content布局
+2019-01-28 11:11:48,405 - simpleExample - INFO - 停止直播
+2019-01-28 11:11:54,786 - simpleExample - INFO - 停止后查询直播
+2019-01-28 11:11:56,032 - simpleExample - INFO - 删除直播
+2019-01-28 11:11:57,230 - simpleExample - INFO - 删除后查询直播
+2019-01-28 11:11:58,467 - simpleExample - INFO - 结束会议
+2019-01-28 11:11:58,740 - simpleExample - INFO - 获取当前直播的视频列表
+2019-01-28 11:11:59,974 - simpleExample - INFO - 结束会议
+2019-01-28 11:12:00,999 - simpleExample - INFO - {"developerMessage":"ErrorStatus: INTERNAL_ERROR 500 ","userMessage":"internal.error","errorCode":700,"moreInfo":"http://www.ainemo.com/errors/700"}
+2019-01-28 11:12:01,233 - simpleExample - INFO - 开始会议成功
+2019-01-28 11:12:03,434 - simpleExample - INFO - 开始录制成功
+2019-01-28 11:12:08,436 - simpleExample - INFO - 查询录制状态
+2019-01-28 11:12:13,657 - simpleExample - INFO - 查询当前会议
+2019-01-28 11:12:14,823 - simpleExample - INFO - 查询当前会议详情_质量
+2019-01-28 11:12:21,063 - simpleExample - INFO - 查询当前会议详情_无质量
+2019-01-28 11:12:22,290 - simpleExample - INFO - 查询当前会议详情__指定会议室
+2019-01-28 11:12:23,526 - simpleExample - INFO - 查询当前会议详情_指定会议室_质量
+2019-01-28 11:12:24,808 - simpleExample - INFO - 查询当前会议__指定会议室
+2019-01-28 11:12:26,144 - simpleExample - INFO - 停止录制成功
+2019-01-28 11:12:26,144 - simpleExample - INFO - {"recordingStatusResponse":"OK","downLoadRestApi":"https://www.ainemo.com/api/rest/external/v1/vods/meetingroom/9000043836/download/1150368784082"}
+2019-01-28 11:12:27,316 - simpleExample - INFO - 结束会议成功
+2019-01-28 11:12:37,318 - simpleExample - INFO - 按会议时间导出会议详情
+2019-01-28 11:12:38,608 - simpleExample - INFO - 按会议时间导出会议详情
+2019-01-28 11:12:41,107 - simpleExample - ERROR - 结束会议失败
+2019-01-28 11:12:41,107 - simpleExample - ERROR - https://cloud.xylink.com/api/rest/external/v1/conferenceControl/9000043836/end?enterpriseId=e608e0f43963706372c006235c79d01890e82966&signature=z%2F34p1K8smkA7RGJhqPiZL%2B5BJWktB1z0EKvTEvMGrM%3D
+2019-01-28 11:12:41,108 - simpleExample - ERROR - None
+2019-01-28 11:12:41,108 - simpleExample - ERROR - {"developerMessage":"ErrorStatus: INTERNAL_ERROR 500 ","userMessage":"internal.error","errorCode":700,"moreInfo":"http://www.ainemo.com/errors/700"}
+2019-01-28 11:12:41,108 - simpleExample - INFO - 批量查询企业云会议室
+2019-01-28 11:12:41,315 - simpleExample - ERROR - 批量查询企业云会议室: '9000043836' not found in u'[{"meettingRoomName":"yunyunyun","expireTime":-1,"password":"","meetingControlPwd":"123456","meetingRoomNumber":null,"meetingRoomState":"idle","autoMute":0,"smartMutePerson":6,"autoRecord":false,"recordAddDeviceName":false,"onlyRecordMainImage":false},{"meettingRoomName":"\u6570\u636e\u51c6\u5907","expireTime":-1,"password":"","meetingControlPwd":"456346","meetingRoomNumber":null,"meetingRoomState":"idle","autoMute":0,"smartMutePerson":6,"autoRecord":false,"recordAddDeviceName":false,"onlyRecordMainImage":false}]'
+2019-01-28 11:12:41,315 - simpleExample - ERROR - https://cloud.xylink.com/api/rest/external/v1/meetingInfo/batch?enterpriseId=e608e0f43963706372c006235c79d01890e82966&signature=6Fx%2FmuxVlfi73lrYZFNj1E4d6FDfAmLKCzp0VnvY2ec%3D
+2019-01-28 11:12:41,316 - simpleExample - ERROR - ["9000043836", "9000383751"]
+2019-01-28 11:12:41,325 - simpleExample - ERROR - [{"meettingRoomName":"yunyunyun","expireTime":-1,"password":"","meetingControlPwd":"123456","meetingRoomNumber":null,"meetingRoomState":"idle","autoMute":0,"smartMutePerson":6,"autoRecord":false,"recordAddDeviceName":false,"onlyRecordMainImage":false},{"meettingRoomName":"数据准备","expireTime":-1,"password":"","meetingControlPwd":"456346","meetingRoomNumber":null,"meetingRoomState":"idle","autoMute":0,"smartMutePerson":6,"autoRecord":false,"recordAddDeviceName":false,"onlyRecordMainImage":false}]
+2019-01-28 11:12:41,332 - simpleExample - INFO - 创建会议v1
+2019-01-28 11:12:41,515 - simpleExample - INFO - check ok:      "meetingNumber":"\d{12}"
+2019-01-28 11:12:41,516 - simpleExample - INFO - check ok:      "controlPassword":"\d{6}"
+2019-01-28 11:12:41,516 - simpleExample - INFO - check ok:      "shareUrl":"http://cloud.xylink.com/page/third/.*"
+2019-01-28 11:12:41,516 - simpleExample - INFO - check ok:      "password":""
+2019-01-28 11:12:42,516 - simpleExample - INFO - 查询会议
+2019-01-28 11:12:43,694 - simpleExample - INFO - 修改会议
+2019-01-28 11:12:44,892 - simpleExample - INFO - 修改后查询会议
+2019-01-28 11:12:46,140 - simpleExample - INFO - 删除会议
+2019-01-28 11:12:47,342 - simpleExample - INFO - 删除后查询会议
+2019-01-28 11:12:48,515 - simpleExample - INFO - 创建会议v1
+2019-01-28 11:12:48,710 - simpleExample - INFO - check ok:      "meetingNumber":"\d{12}"
+2019-01-28 11:12:48,711 - simpleExample - INFO - check ok:      "controlPassword":"\d{6}"
+2019-01-28 11:12:48,711 - simpleExample - INFO - check ok:      "shareUrl":"http://cloud.xylink.com/page/third/.*"
+2019-01-28 11:12:48,713 - simpleExample - INFO - check ok:      "password":"\d{6}"
+2019-01-28 11:12:49,714 - simpleExample - INFO - 查询会议
+2019-01-28 11:12:50,904 - simpleExample - INFO - 修改会议
+2019-01-28 11:12:52,098 - simpleExample - INFO - 修改后查询会议
+2019-01-28 11:12:53,303 - simpleExample - INFO - 删除会议
+2019-01-28 11:12:54,497 - simpleExample - INFO - 删除后查询会议
+2019-01-28 11:12:55,680 - simpleExample - INFO - 创建会议v1
+2019-01-28 11:12:55,861 - simpleExample - INFO - check ok:      "meetingNumber":"910010000100"
+2019-01-28 11:12:55,862 - simpleExample - INFO - check ok:      "controlPassword":"\d{6}"
+2019-01-28 11:12:55,864 - simpleExample - INFO - check ok:      "shareUrl":"http://cloud.xylink.com/page/third/.*"
+2019-01-28 11:12:55,864 - simpleExample - INFO - check ok:      "password":""
+2019-01-28 11:12:56,865 - simpleExample - INFO - 查询会议
+2019-01-28 11:12:58,085 - simpleExample - INFO - 修改会议
+2019-01-28 11:12:59,289 - simpleExample - INFO - 修改后查询会议
+2019-01-28 11:13:00,525 - simpleExample - INFO - 删除会议
+2019-01-28 11:13:01,723 - simpleExample - INFO - 删除后查询会议
+2019-01-28 11:13:02,881 - simpleExample - INFO - 创建会议v2
+2019-01-28 11:13:03,045 - simpleExample - INFO - check ok:      "meetingNumber":"\d{12}"
+2019-01-28 11:13:03,046 - simpleExample - INFO - check ok:      "controlPassword":"123456"
+2019-01-28 11:13:03,046 - simpleExample - INFO - check ok:      "shareUrl":"http://cloud.xylink.com/page/third/.*"
+2019-01-28 11:13:03,046 - simpleExample - INFO - check ok:      "password":""
+2019-01-28 11:13:04,046 - simpleExample - INFO - 查询会议
+2019-01-28 11:13:05,223 - simpleExample - INFO - 删除会议室
+2019-01-28 11:13:06,403 - simpleExample - INFO - 删除后查询会议
+2019-01-28 11:13:07,566 - simpleExample - INFO - 创建会议v2
+2019-01-28 11:13:07,744 - simpleExample - INFO - check ok:      "meetingNumber":"\d{12}"
+2019-01-28 11:13:07,746 - simpleExample - INFO - check ok:      "controlPassword":"\d{6}"
+2019-01-28 11:13:07,746 - simpleExample - INFO - check ok:      "shareUrl":"http://cloud.xylink.com/page/third/.*"
+2019-01-28 11:13:07,746 - simpleExample - INFO - check ok:      "password":"\d{6}"
+2019-01-28 11:13:08,746 - simpleExample - INFO - 查询会议
+2019-01-28 11:13:09,940 - simpleExample - INFO - 删除会议室
+2019-01-28 11:13:11,134 - simpleExample - INFO - 删除后查询会议
+2019-01-28 11:13:12,299 - simpleExample - INFO - 创建会议v2
+2019-01-28 11:13:12,480 - simpleExample - INFO - check ok:      "meetingNumber":"\d{12}"
+2019-01-28 11:13:12,482 - simpleExample - INFO - check ok:      "controlPassword":"123456"
+2019-01-28 11:13:12,483 - simpleExample - INFO - check ok:      "shareUrl":"http://cloud.xylink.com/page/third/.*"
+2019-01-28 11:13:12,483 - simpleExample - INFO - check ok:      "password":"\d{6}"
+2019-01-28 11:13:13,483 - simpleExample - INFO - 查询会议
+2019-01-28 11:13:14,664 - simpleExample - INFO - 删除会议室
+2019-01-28 11:13:15,871 - simpleExample - INFO - 删除后查询会议
+2019-01-28 11:13:17,036 - simpleExample - INFO - 创建会议v2
+2019-01-28 11:13:17,207 - simpleExample - INFO - check ok:      "meetingNumber":"\d{12}"
+2019-01-28 11:13:17,209 - simpleExample - INFO - check ok:      "controlPassword":"123456"
+2019-01-28 11:13:17,209 - simpleExample - INFO - check ok:      "shareUrl":"http://cloud.xylink.com/page/third/.*"
+2019-01-28 11:13:17,209 - simpleExample - INFO - check ok:      "password":"654321"
+2019-01-28 11:13:18,210 - simpleExample - INFO - 查询会议
+2019-01-28 11:13:19,408 - simpleExample - INFO - 删除会议室
+2019-01-28 11:13:20,594 - simpleExample - INFO - 删除后查询会议
+2019-01-28 11:13:21,763 - simpleExample - INFO - 查询企业云会议室
+2019-01-28 11:13:22,974 - simpleExample - INFO - 查询sdk会议室
+2019-01-28 11:13:24,394 - simpleExample - INFO - 查询企业sdk会议室
+2019-01-28 11:13:27,742 - simpleExample - INFO - 预约会议
+2019-01-28 11:13:29,269 - simpleExample - INFO - 查询预约会议
+2019-01-28 11:14:59,642 - simpleExample - INFO - 查询会议状态
+2019-01-28 11:15:00,796 - simpleExample - INFO - 结束会议
+2019-01-28 11:15:02,062 - simpleExample - INFO - 修改预约会议
+2019-01-28 11:15:03,684 - simpleExample - INFO - 查询预约会议,验证修改
+2019-01-28 11:15:04,058 - simpleExample - INFO - check ok:      
+2019-01-28 11:15:05,058 - simpleExample - INFO - 删除预约会议
+2019-01-28 11:15:06,490 - simpleExample - INFO - 查询预约会议，验证删除
+2019-01-28 11:15:07,836 - simpleExample - INFO - 开始会议
+2019-01-28 11:15:13,924 - simpleExample - INFO - 查询会议状态
+2019-01-28 11:15:15,144 - simpleExample - INFO - 开始录制
+2019-01-28 11:15:25,362 - simpleExample - INFO - 停止录制
+2019-01-28 11:15:27,512 - simpleExample - INFO - 结束会议
+2019-01-28 11:15:37,714 - simpleExample - INFO - 根据云会议室查询录制文件_时间段
+2019-01-28 11:15:38,868 - simpleExample - INFO - 根据云会议室查询录制文件_所有
+2019-01-28 11:15:39,052 - simpleExample - INFO - [{"vodId":1855558,"displayName":"19/01/28 11:15","startTime":1548645317528,"endTime":1548645327328,"fileSize":1782689,"meetingRoomNumber":"9000746310","nemoNumber":null,"vodMetadataType":"SERVER_RECORD"},{"vodId":1855557,"displayName":"预约测绘a_19/01/28 11:14","startTime":1548645268454,"endTime":1548645302854,"fileSize":6232770,"meetingRoomNumber":"9000746310","nemoNumber":null,"vodMetadataType":"SERVER_RECORD"}]
+2019-01-28 11:15:39,065 - simpleExample - INFO - 413
+2019-01-28 11:15:40,065 - simpleExample - INFO - 根据小鱼号查询录制文件
+2019-01-28 11:15:40,216 - simpleExample - INFO - []
+2019-01-28 11:15:41,216 - simpleExample - INFO - 根据企业查询录制文件一天
+2019-01-28 11:15:42,473 - simpleExample - INFO - 根据企业查询录制文件_时间段
+2019-01-28 11:15:43,674 - simpleExample - INFO - 根据vodId获取缩略图
+2019-01-28 11:15:44,944 - simpleExample - INFO - 根据vodId获取播放链接
+2019-01-28 11:15:45,336 - simpleExample - INFO - {"playUrl":"http://vod.xylink.com:8081/vodfile/cloud/9000746310/1150368784084_0_1548645317528_1280_720.mp4/index.m3u8?proxysessionid=1804323857,bandwidth=1572921","shared":false}
+2019-01-28 11:15:46,338 - simpleExample - INFO - 根据vodId获取下载链接
+2019-01-28 11:15:51,530 - simpleExample - INFO - 根据vodId获取下载链接
+2019-01-28 11:15:52,746 - simpleExample - INFO - 根据vodId删除视频
+2019-01-28 11:15:53,992 - simpleExample - INFO - 验证删除
+2019-01-28 11:15:55,155 - simpleExample - INFO - 录制v2
+2019-01-28 11:15:55,157 - simpleExample - INFO - 开始会议
+2019-01-28 11:16:01,232 - simpleExample - INFO - 查询会议状态
+2019-01-28 11:16:03,415 - simpleExample - INFO - 开始录制
+2019-01-28 11:16:18,609 - simpleExample - INFO - 停止录制v2
+2019-01-28 11:16:23,749 - simpleExample - INFO - 根据sessionid获取下载链接
+2019-01-28 11:16:23,930 - simpleExample - INFO - {"downloadUrl":null,"status":777001}
+2019-01-28 11:16:43,930 - simpleExample - INFO - 根据sessionid获取下载链接
+2019-01-28 11:16:44,138 - simpleExample - INFO - {"downloadUrl":"http://prevoddownload.xylink.com/vodfiles/downloadfiles/20191/19_01_28_11_16_1548645385807.mp4?auth_key=1548647206-0-0-b708c79692a2c46eb0bb6e27fb41c434","status":777000}
+2019-01-28 11:16:45,140 - simpleExample - INFO - 结束会议
+2019-01-28 11:16:55,332 - simpleExample - INFO - 根据云会议室查询录制文件_时间段
+2019-01-28 11:16:56,482 - simpleExample - INFO - 根据云会议室查询录制文件_所有
+2019-01-28 11:16:57,703 - simpleExample - INFO - 根据小鱼号查询录制文件
+2019-01-28 11:16:57,858 - simpleExample - INFO - []
+2019-01-28 11:16:58,858 - simpleExample - INFO - 根据企业查询录制文件一天
+2019-01-28 11:17:00,084 - simpleExample - INFO - 根据企业查询录制文件_时间段
+2019-01-28 11:17:01,276 - simpleExample - INFO - 根据vodId获取缩略图
+2019-01-28 11:17:02,512 - simpleExample - INFO - 根据vodId获取播放链接
+2019-01-28 11:17:03,918 - simpleExample - INFO - 根据vodId获取下载链接
+2019-01-28 11:17:04,115 - simpleExample - INFO - {"downloadUrl":"http://prevoddownload.xylink.com/vodfiles/downloadfiles/20191/19_01_28_11_16_1548645385807.mp4?auth_key=1548647226-0-0-95164de31f657ab8488dacfc2a9254a5","status":777000}
+2019-01-28 11:17:05,117 - simpleExample - INFO - 按云会议号删除视频
+2019-01-28 11:17:06,315 - simpleExample - INFO - 根据云会议室查询录制文件_验证删除
+2019-01-28 11:17:07,486 - simpleExample - INFO - 结束会议
+2019-01-28 11:17:07,693 - simpleExample - INFO - {"developerMessage":"ErrorStatus: INTERNAL_ERROR 500 ","userMessage":"internal.error","errorCode":700,"moreInfo":"http://www.ainemo.com/errors/700"}
+2019-01-28 11:17:07,694 - simpleExample - INFO - 结束会议
+2019-01-28 11:17:08,736 - simpleExample - INFO - {"developerMessage":"ErrorStatus: INTERNAL_ERROR 500 ","userMessage":"internal.error","errorCode":700,"moreInfo":"http://www.ainemo.com/errors/700"}
+2019-01-28 11:17:08,736 - simpleExample - INFO - box登录
+2019-01-28 11:17:09,882 - simpleExample - INFO - box重复登录
+2019-01-28 11:17:11,013 - simpleExample - INFO - 第三方硬件登录
+2019-01-28 11:17:12,174 - simpleExample - INFO - 第三方硬件重复登录
+2019-01-28 11:17:13,316 - simpleExample - INFO - me40登录
+2019-01-28 11:17:13,411 - simpleExample - INFO - b8b1b0c6486d1bc7a5a4da8f89d9a7941689276079b
+2019-01-28 11:17:14,413 - simpleExample - INFO - conference
+2019-01-28 11:17:15,526 - simpleExample - INFO - callurlInfo_phone
+2019-01-28 11:17:16,694 - simpleExample - INFO - callurlInfo_pstn
+2019-01-28 11:17:17,802 - simpleExample - INFO - callurlInfo_pstn
+2019-01-28 11:17:18,927 - simpleExample - INFO - callurlInfo_cloudconf
+2019-01-28 11:17:20,036 - simpleExample - INFO - sdk_conference
+2019-01-28 11:17:21,157 - simpleExample - INFO - callurlInfo_H323
+2019-01-28 11:17:22,259 - simpleExample - INFO - 创建用户
+2019-01-28 11:17:23,345 - simpleExample - INFO - 登录
+2019-01-28 11:17:24,437 - simpleExample - INFO - conference
+2019-01-28 11:17:24,536 - simpleExample - INFO - callurlInfo_phone
+2019-01-28 11:17:25,668 - simpleExample - INFO - callurlInfo_pstn
+2019-01-28 11:17:25,775 - simpleExample - INFO - {"developerMessage":"","userMessage":"invalid call number","errorCode":60012,"moreInfo":"http://www.ainemo.com/errors/60012"}
+2019-01-28 11:17:26,776 - simpleExample - INFO - callurlInfo_pstn
+2019-01-28 11:17:27,884 - simpleExample - INFO - callurlInfo_cloudconf
+2019-01-28 11:17:28,983 - simpleExample - INFO - callurlInfo_H323
+2019-01-28 11:17:30,109 - simpleExample - INFO - sdk_conference
+2019-01-28 11:17:31,223 - simpleExample - INFO - 登出
+2019-01-28 11:17:32,338 - simpleExample - INFO - wechart创建用户
+2019-01-28 11:17:33,423 - simpleExample - INFO - wechart登录
+2019-01-28 11:17:34,513 - simpleExample - INFO - me20登录
+2019-01-28 11:17:35,671 - simpleExample - INFO - me20重复登录
+2019-01-28 11:17:36,773 - simpleExample - INFO - 解绑me20
+2019-01-28 11:17:37,901 - simpleExample - INFO - me20解绑后重新登录
+2019-01-28 11:17:39,042 - simpleExample - INFO - 解绑me20
+2019-01-28 11:17:40,178 - simpleExample - INFO - 解绑me20,验证解绑成功
+2019-01-28 11:17:41,253 - simpleExample - INFO - me40登录
+2019-01-28 11:17:42,384 - simpleExample - INFO - me40重复登录
+2019-01-28 11:17:43,490 - simpleExample - INFO - 解绑me40
+2019-01-28 11:17:44,611 - simpleExample - INFO - me40解绑后重新登录
+2019-01-28 11:17:45,756 - simpleExample - INFO - 解绑me40
+2019-01-28 11:17:46,871 - simpleExample - INFO - 解绑me40,验证解绑成功
+2019-01-28 11:17:47,938 - simpleExample - INFO - 添加me90sn
+2019-01-28 11:17:48,003 - simpleExample - INFO - ok
+2019-01-28 11:17:49,003 - simpleExample - INFO - me90登录
+2019-01-28 11:17:50,108 - simpleExample - INFO - me90重复登录
+2019-01-28 11:17:51,177 - simpleExample - INFO - 解绑me90
+2019-01-28 11:17:52,283 - simpleExample - INFO - me90解绑后重新登录
+2019-01-28 11:17:53,382 - simpleExample - INFO - 解绑me90
+2019-01-28 11:17:54,480 - simpleExample - INFO - 解绑me90,验证解绑成功
+2019-01-28 11:17:55,543 - simpleExample - INFO - ne2005登录
+2019-01-28 11:17:56,697 - simpleExample - INFO - NE2005重复登录
+2019-01-28 11:17:57,809 - simpleExample - INFO - 解绑ne2005
+2019-01-28 11:17:58,924 - simpleExample - INFO - ne2005解绑后重新登录
+2019-01-28 11:18:00,078 - simpleExample - INFO - 解绑ne2005
+2019-01-28 11:18:01,190 - simpleExample - INFO - 解绑ne2005，验证解绑成功
+2019-01-28 11:18:02,256 - simpleExample - INFO - ne60登录
+2019-01-28 11:18:03,394 - simpleExample - INFO - ne60重复登录
+2019-01-28 11:18:04,496 - simpleExample - INFO - 解绑ne60
+2019-01-28 11:18:05,605 - simpleExample - INFO - ne60解绑后重新登录
+2019-01-28 11:18:06,769 - simpleExample - INFO - 解绑ne60
+2019-01-28 11:18:07,884 - simpleExample - INFO - 解绑ne60,验证解绑成功
+2019-01-28 11:18:08,948 - simpleExample - INFO - 软终端登录
+2019-01-28 11:18:10,096 - simpleExample - INFO - tvbox登录
+2019-01-28 11:18:11,240 - simpleExample - INFO - tvbox重复登录
+2019-01-28 11:18:12,334 - simpleExample - INFO - 解绑tvbox
+2019-01-28 11:18:13,448 - simpleExample - INFO - tvbox解绑后重新登录
+2019-01-28 11:18:14,615 - simpleExample - INFO - 解绑tvbox
+2019-01-28 11:18:15,740 - simpleExample - INFO - 解绑tvbox,验证解绑成功
+2019-01-28 11:18:16,809 - simpleExample - INFO - 添加激活邮箱用户
+2019-01-28 11:18:17,000 - simpleExample - INFO - {"mailbox":"asdc@yopmail.com","phone":null,"name":"mailuser3"}
+2019-01-28 11:18:18,002 - simpleExample - INFO - 查询企业通讯录用户
+2019-01-28 11:18:19,154 - simpleExample - INFO - 删除激活邮箱用户
+2019-01-28 11:18:20,348 - simpleExample - INFO - 查询企业通讯录用户
+2019-01-28 11:18:21,486 - simpleExample - INFO - 添加未激活邮箱用户
+2019-01-28 11:18:21,674 - simpleExample - INFO - {"mailbox":"user2@123.com","phone":"","name":"mailuser4"}
+2019-01-28 11:18:22,674 - simpleExample - INFO - 查询企业通讯录用户
+2019-01-28 11:18:23,821 - simpleExample - INFO - 删除激活邮箱用户
+2019-01-28 11:18:25,023 - simpleExample - INFO - 查询企业通讯录用户
+2019-01-28 11:18:26,160 - simpleExample - INFO - ME40
+2019-01-28 11:18:26,160 - simpleExample - INFO - 获取企业通讯录小鱼
+2019-01-28 11:18:27,395 - simpleExample - INFO - 分页获取企业通讯录小鱼
+2019-01-28 11:18:28,638 - simpleExample - INFO - 获取某个小鱼终端状态
+2019-01-28 11:18:29,819 - simpleExample - INFO - 获取所有小鱼终端状态
+2019-01-28 11:18:30,966 - simpleExample - INFO - 根据sn获取小鱼信息
+2019-01-28 11:18:31,117 - simpleExample - INFO - [{"callState":"offline","deviceSN":"7TEST2005VHL626C","number":"20957506"}]
+2019-01-28 11:18:32,117 - simpleExample - INFO - 修改小鱼终端
+2019-01-28 11:18:33,357 - simpleExample - INFO - 获取企业通讯录小鱼,验证修改
+2019-01-28 11:18:34,589 - simpleExample - INFO - 删除小鱼终端
+2019-01-28 11:18:35,849 - simpleExample - INFO - 获取某个小鱼终端状态验证删除
+2019-01-28 11:18:37,007 - simpleExample - INFO - 添加小鱼终端
+2019-01-28 11:18:38,265 - simpleExample - INFO - 获取企业通讯录小鱼,验证添加
+2019-01-28 11:18:39,496 - simpleExample - INFO - 根据小鱼号批量升级设备
+2019-01-28 11:18:40,677 - simpleExample - INFO - 根据小鱼号批量重启设备
+2019-01-28 11:18:50,826 - simpleExample - INFO - 根据小鱼号批量上传日志
+2019-01-28 11:18:51,979 - simpleExample - INFO - 根据小鱼号批量上传全量日志
+2019-01-28 11:18:53,134 - simpleExample - INFO - ME90
+2019-01-28 11:18:53,134 - simpleExample - INFO - 获取企业通讯录小鱼
+2019-01-28 11:18:54,368 - simpleExample - INFO - 分页获取企业通讯录小鱼
+2019-01-28 11:18:55,605 - simpleExample - INFO - 获取某个小鱼终端状态
+2019-01-28 11:18:56,829 - simpleExample - INFO - 获取所有小鱼终端状态
+2019-01-28 11:18:57,989 - simpleExample - INFO - 根据sn获取小鱼信息
+2019-01-28 11:18:58,138 - simpleExample - INFO - [{"callState":"offline","deviceSN":"7TEST2005DVM7FA2","number":"60876514"}]
+2019-01-28 11:18:59,138 - simpleExample - INFO - 修改小鱼终端
+2019-01-28 11:19:00,342 - simpleExample - INFO - 获取企业通讯录小鱼,验证修改
+2019-01-28 11:19:01,566 - simpleExample - INFO - 删除小鱼终端
+2019-01-28 11:19:02,816 - simpleExample - INFO - 获取某个小鱼终端状态验证删除
+2019-01-28 11:19:03,959 - simpleExample - INFO - 添加小鱼终端
+2019-01-28 11:19:05,211 - simpleExample - INFO - 获取企业通讯录小鱼,验证添加
+2019-01-28 11:19:06,431 - simpleExample - INFO - 根据小鱼号批量升级设备
+2019-01-28 11:19:07,618 - simpleExample - INFO - 根据小鱼号批量重启设备
+2019-01-28 11:19:17,770 - simpleExample - INFO - 根据小鱼号批量上传日志
+2019-01-28 11:19:18,930 - simpleExample - INFO - 根据小鱼号批量上传全量日志
+2019-01-28 11:19:20,085 - simpleExample - INFO - NE60
+2019-01-28 11:19:20,085 - simpleExample - INFO - 获取企业通讯录小鱼
+2019-01-28 11:19:21,319 - simpleExample - INFO - 分页获取企业通讯录小鱼
+2019-01-28 11:19:22,552 - simpleExample - INFO - 获取某个小鱼终端状态
+2019-01-28 11:19:23,710 - simpleExample - INFO - 获取所有小鱼终端状态
+2019-01-28 11:19:24,851 - simpleExample - INFO - 根据sn获取小鱼信息
+2019-01-28 11:19:24,993 - simpleExample - INFO - [{"callState":"idle","deviceSN":"7D1750022E546379","number":"673492"}]
+2019-01-28 11:19:25,993 - simpleExample - INFO - 修改小鱼终端
+2019-01-28 11:19:27,177 - simpleExample - INFO - 获取企业通讯录小鱼,验证修改
+2019-01-28 11:19:28,404 - simpleExample - INFO - 删除小鱼终端
+2019-01-28 11:19:29,619 - simpleExample - INFO - 获取某个小鱼终端状态验证删除
+2019-01-28 11:19:30,759 - simpleExample - INFO - 添加小鱼终端
+2019-01-28 11:19:32,161 - simpleExample - INFO - 获取企业通讯录小鱼,验证添加
+2019-01-28 11:19:33,378 - simpleExample - INFO - 根据小鱼号批量升级设备
+2019-01-28 11:19:34,565 - simpleExample - INFO - 根据小鱼号批量重启设备
+2019-01-28 11:19:54,746 - simpleExample - INFO - 根据小鱼号批量上传日志
+2019-01-28 11:19:55,908 - simpleExample - INFO - 根据小鱼号批量上传全量日志
+2019-01-28 11:19:57,086 - simpleExample - INFO - 批量重建通讯录
+2019-01-28 11:19:58,433 - simpleExample - INFO - 添加企业通讯录用户
+2019-01-28 11:19:58,619 - simpleExample - INFO - {"mailbox":null,"phone":"+86-12345678006","countryCode":"+86","name":"adduser_name","userProfileId":21683854,"id":21683854}
+2019-01-28 11:19:59,621 - simpleExample - INFO - 查询企业通讯录用户
+2019-01-28 11:20:00,776 - simpleExample - INFO - 重复添加企业通讯录用户
+2019-01-28 11:20:01,976 - simpleExample - INFO - 查询企业通讯录用户
+2019-01-28 11:20:02,130 - simpleExample - INFO - [{"userId":"ff80808158f7d9ca015919e7f72c2b47","countryCode":"+86","phone":"12345678900","mailbox":null,"name":"假手机号"},{"userId":"ff808081620159490162f5ed6fc5081c","countryCode":"+86","phone":"17791269352","mailbox":"","name":"赵川"},{"userId":"ff808081658c7ac80165909f4d891014","countryCode":null,"phone":null,"mailbox":"","name":"user111"},{"userId":"ff80808165675a680165f1e8398671a3","countryCode":"+86","phone":"12345678899","mailbox":null,"name":"aa"},{"userId":"ff808081679869450167994becd60009","countryCode":"+86","phone":"12345678006","mailbox":null,"name":"重复添加"},{"userId":"00000000680c534c01685b534a24005c","countryCode":"+86","phone":"10091702593","mailbox":null,"name":"guest"},{"userId":"00000000680c534c01685c26484600cd","countryCode":"+86","phone":"10069288499","mailbox":null,"name":"test1"}]
+2019-01-28 11:20:03,130 - simpleExample - INFO - 修改企业通讯录用户
+2019-01-28 11:20:04,299 - simpleExample - INFO - 查询企业通讯录用户
+2019-01-28 11:20:05,447 - simpleExample - INFO - 删除企业通讯录用户
+2019-01-28 11:20:06,632 - simpleExample - INFO - 查询企业通讯录用户

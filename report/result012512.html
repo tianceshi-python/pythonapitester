@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>自动化测试报告,测试结果如下：</title>
+    <meta name="generator" content="HTMLTestRunner 0.8.2"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    
+<style type="text/css" media="screen">body{width:1000px;padding:30px 0;margin:0 auto;font-family:"sans-serif",verdana,arial,helvetica,sans-serif;font-size:14px;background-color:#ECF0F5;color:#444;}table a{display:inline;line-height:20px;font-size:14px;clear:both;color:#fff;font-weight:bold;}table a.popup_link{display:inline-block;width:80px;text-align:center;color:#DD4B39;float:right;}table .failCase a.popup_link{color:#FF7701;}.popup_window{display:none;position:relative;margin:30px auto 0 auto;padding:10px;background-color:#ECF0F5;font-family:"Lucida Console","Courier New",Courier,monospace;width:440px;max-height:250px;overflow-y:auto;overflow-y:overlay;color:#000;}.popup_window > div{position:absolute;right:15px;top:5px;font-weight:bold;}.popup_window > div a{color:#DD4B39;}.popup_window pre{white-space:pre-wrap;word-break:break-all;margin:0;font-size:12px;line-height:16px;}#result_table{width:100%%;border-collapse:collapse;background:#fff;color:#008D4C;}#result_table td{width:80px;padding:8px 8px;line-height:20px;text-align:center;border:1px solid #ECF0F5;}#result_table tr td:nth-child(1){width:500px;word-break:break-all;text-align:left;}#header_row td,#total_row td{color:#f3f3f3;background:#2c3e50;font-weight:bold;font-size:18px;line-height:28px;text-align:center!important;}#result_table .testcase{margin-left:2em;font-size:12px;color:#008D4C;}#result_table .failCase .testcase{color:#FF7701;}#result_table .errorCase .testcase{color:#DD4B39;}#result_table .passClass{color:#f3f3f3;background-color:#4CAE4C;}#result_table .failClass{color:#f3f3f3;background-color:#EEA236;}#result_table .errorClass{color:#f3f3f3;background-color:#D43F3A;}.hiddenRow{display:none;}</style>
+
+</head>
+<body>
+<script language="javascript" type="text/javascript"><!--
+output_list = Array();
+
+/* level - 0:Summary; 1:Failed; 2:All */
+function showCase(level) {
+    trs = document.getElementsByTagName("tr");
+    for (var i = 0; i < trs.length; i++) {
+        tr = trs[i];
+        id = tr.id;
+        if (id.substr(0,2) == 'ft') {
+            if (level < 1) {
+                tr.className = 'hiddenRow';
+            }
+            else {
+                tr.className = '';
+            }
+        }
+        if (id.substr(0,2) == 'pt') {
+            if (level > 1) {
+                tr.className = '';
+            }
+            else {
+                tr.className = 'hiddenRow';
+            }
+        }
+    }
+}
+
+
+function showClassDetail(cid, count) {
+    var id_list = Array(count);
+    var toHide = 1;
+    for (var i = 0; i < count; i++) {
+        tid0 = 't' + cid.substr(1) + '.' + (i+1);
+        tid = 'f' + tid0;
+        tr = document.getElementById(tid);
+        if (!tr) {
+            tid = 'p' + tid0;
+            tr = document.getElementById(tid);
+        }
+        id_list[i] = tid;
+        if (tr.className) {
+            toHide = 0;
+        }
+    }
+    for (var i = 0; i < count; i++) {
+        tid = id_list[i];
+        if (toHide) {
+            document.getElementById(tid).style.display = 'none'
+            document.getElementById(tid).className = 'hiddenRow';
+        }
+        else {
+            document.getElementById(tid).className = '';
+            document.getElementById(tid).style.display = '';
+        }
+    }
+}
+
+
+function showTestDetail(div_id){
+    var details_div = document.getElementById(div_id)
+    var displayState = details_div.style.display
+    // alert(displayState)
+    if (displayState != 'block' ) {
+        displayState = 'block'
+        details_div.style.display = 'block'
+    }
+    else {
+        details_div.style.display = 'none'
+    }
+}
+
+
+function html_escape(s) {
+    s = s.replace(/&/g,'&amp;');
+    s = s.replace(/</g,'&lt;');
+    s = s.replace(/>/g,'&gt;');
+    return s;
+}
+
+--></script>
+
+
+        <table style="width: 100%;background: #fff;border-top: 3px solid #d2d6de;box-shadow: 0 1px 1px rgba(0,0,0,0.1);margin-top: 30px;">
+            <tr>
+                <td style="padding: 20px 0 20px 20px;height: 180px;">
+                    <h1 style="font-size: 16px;color: #3c8dbc;font-weight: bold;margin: 0 0 15px 0;">自动化测试报告,测试结果如下：</h1>
+                    
+        <p class='attribute' style="margin: 0 0 8px 0;line-height: 20px;"><strong style="width: 100px;display: inline-block;margin-right: 10px;">Start Time:</strong> 2019-01-25 12:58:34</p>
+    
+        <p class='attribute' style="margin: 0 0 8px 0;line-height: 20px;"><strong style="width: 100px;display: inline-block;margin-right: 10px;">Duration:</strong> 0:00:49.118000</p>
+    
+        <p class='attribute' style="margin: 0 0 8px 0;line-height: 20px;"><strong style="width: 100px;display: inline-block;margin-right: 10px;">Status:</strong> Pass 9 Failure 1</p>
+    
+                    <p style="margin: 20px 0 0 0;">用例执行情况：</p>
+                </td>
+                <td>
+                    <div style="width: 240px;float: right;z-index: 300;position: relative;margin: 20px 20px 15px 0;text-align: right;">
+                        <img src="https://image-charts.com/chart?chs=220x180&chd=t:9,1,0&chdl=Pass:9|Error:1|Fail:0&cht=p3&chco=4CAE4C|EEA236|D43F3A">
+                    </div>
+                </td>
+            </tr>
+        </table>
+    
+
+        <div style="text-align: right;width: 100%;height: 30px;line-height: 30px;margin: 20px 0 10px 0;position: relative;">
+            Show
+            <a href='javascript:showCase(0)' style="font-weight: bold;margin: 0 5px;font-size: 16px;color: #f39c12;">Summary</a>
+            <a href='javascript:showCase(1)' style="font-weight: bold;margin: 0 5px;font-size: 16px;color: #dd4b39;">Failed</a>
+            <a href='javascript:showCase(2)' style="font-weight: bold;margin: 0 5px;font-size: 16px;color: #00a65a;">All</a>
+        </div>
+
+
+        <table id='result_table'>
+            <colgroup>
+                <col align='left' />
+                <col align='right' />
+                <col align='right' />
+                <col align='right' />
+                <col align='right' />
+                <col align='right' />
+            </colgroup>
+            <tr id='header_row'>
+                <td>Test Group/Test case</td>
+                <td>Count</td>
+                <td>Pass</td>
+                <td>Fail</td>
+                <td>Error</td>
+                <td>View</td>
+            </tr>
+            
+        <tr class='failClass'>
+            <td>test_creat_sdkroom.create_meeting_v1</td>
+            <td>10</td>
+            <td>9</td>
+            <td>1</td>
+            <td>0</td>
+            <td><a href="javascript:showClassDetail('c1',10)">Detail</a></td>
+        </tr>
+    
+        <tr id='ft1.1' class='failCase none'>
+            <td class=''><div class='testcase'>test_batch_get_room</div></td>
+            <td colspan='5' align='center'>
+
+            <!--css div popup start-->
+            <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_ft1.1')" >
+                fail</a>
+
+            <div id='div_ft1.1' class="popup_window" style="display:block;">
+                <div style='text-align: right; color:red;cursor:pointer'>
+                <a onfocus='this.blur();' onclick="document.getElementById('div_ft1.1').style.display = 'none' " >
+                   [x]</a>
+                </div>
+                <pre>
+                
+        ft1.1: Traceback (most recent call last):
+  File "C:\myworkspace\git_back\pythonapitester\testcase\test_creat_sdkroom.py", line 234, in test_batch_get_room
+    raise e
+AssertionError: 批量查询企业云会议室: '9000043836' not found in u'[{"meettingRoomName":"yunyunyun","expireTime":-1,"password":"","meetingControlPwd":"123456","meetingRoomNumber":null,"meetingRoomState":"idle","autoMute":0,"smartMutePerson":6,"autoRecord":false,"recordAddDeviceName":false,"onlyRecordMainImage":false},{"meettingRoomName":"\u6570\u636e\u51c6\u5907","expireTime":-1,"password":"","meetingControlPwd":"456346","meetingRoomNumber":null,"meetingRoomState":"idle","autoMute":0,"smartMutePerson":6,"autoRecord":false,"recordAddDeviceName":false,"onlyRecordMainImage":false}]'
+
+    
+                </pre>
+            </div>
+            <!--css div popup end-->
+
+            </td>
+        </tr>
+    
+        <tr id='pt1.2' class='none hiddenRow'>
+            <td class=''><div class='testcase'>test_case_1</div></td>
+            <td colspan='5' align='center'>
+
+            <!--css div popup start-->
+            <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.2')" >
+                pass</a>
+
+            <div id='div_pt1.2' class="popup_window" style="display:block;">
+                <div style='text-align: right; color:red;cursor:pointer'>
+                <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.2').style.display = 'none' " >
+                   [x]</a>
+                </div>
+                <pre>
+                
+        pt1.2: 
+    
+                </pre>
+            </div>
+            <!--css div popup end-->
+
+            </td>
+        </tr>
+    
+        <tr id='pt1.3' class='none hiddenRow'>
+            <td class=''><div class='testcase'>test_case_2</div></td>
+            <td colspan='5' align='center'>
+
+            <!--css div popup start-->
+            <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.3')" >
+                pass</a>
+
+            <div id='div_pt1.3' class="popup_window" style="display:block;">
+                <div style='text-align: right; color:red;cursor:pointer'>
+                <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.3').style.display = 'none' " >
+                   [x]</a>
+                </div>
+                <pre>
+                
+        pt1.3: 
+    
+                </pre>
+            </div>
+            <!--css div popup end-->
+
+            </td>
+        </tr>
+    
+        <tr id='pt1.4' class='none hiddenRow'>
+            <td class=''><div class='testcase'>test_case_3</div></td>
+            <td colspan='5' align='center'>
+
+            <!--css div popup start-->
+            <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.4')" >
+                pass</a>
+
+            <div id='div_pt1.4' class="popup_window" style="display:block;">
+                <div style='text-align: right; color:red;cursor:pointer'>
+                <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.4').style.display = 'none' " >
+                   [x]</a>
+                </div>
+                <pre>
+                
+        pt1.4: 
+    
+                </pre>
+            </div>
+            <!--css div popup end-->
+
+            </td>
+        </tr>
+    
+        <tr id='pt1.5' class='none hiddenRow'>
+            <td class=''><div class='testcase'>test_creatv2_case_1</div></td>
+            <td colspan='5' align='center'>
+
+            <!--css div popup start-->
+            <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.5')" >
+                pass</a>
+
+            <div id='div_pt1.5' class="popup_window" style="display:block;">
+                <div style='text-align: right; color:red;cursor:pointer'>
+                <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.5').style.display = 'none' " >
+                   [x]</a>
+                </div>
+                <pre>
+                
+        pt1.5: 
+    
+                </pre>
+            </div>
+            <!--css div popup end-->
+
+            </td>
+        </tr>
+    
+        <tr id='pt1.6' class='none hiddenRow'>
+            <td class=''><div class='testcase'>test_creatv2_case_2</div></td>
+            <td colspan='5' align='center'>
+
+            <!--css div popup start-->
+            <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.6')" >
+                pass</a>
+
+            <div id='div_pt1.6' class="popup_window" style="display:block;">
+                <div style='text-align: right; color:red;cursor:pointer'>
+                <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.6').style.display = 'none' " >
+                   [x]</a>
+                </div>
+                <pre>
+                
+        pt1.6: 
+    
+                </pre>
+            </div>
+            <!--css div popup end-->
+
+            </td>
+        </tr>
+    
+        <tr id='pt1.7' class='none hiddenRow'>
+            <td class=''><div class='testcase'>test_creatv2_case_3</div></td>
+            <td colspan='5' align='center'>
+
+            <!--css div popup start-->
+            <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.7')" >
+                pass</a>
+
+            <div id='div_pt1.7' class="popup_window" style="display:block;">
+                <div style='text-align: right; color:red;cursor:pointer'>
+                <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.7').style.display = 'none' " >
+                   [x]</a>
+                </div>
+                <pre>
+                
+        pt1.7: 
+    
+                </pre>
+            </div>
+            <!--css div popup end-->
+
+            </td>
+        </tr>
+    
+        <tr id='pt1.8' class='none hiddenRow'>
+            <td class=''><div class='testcase'>test_creatv2_case_4</div></td>
+            <td colspan='5' align='center'>
+
+            <!--css div popup start-->
+            <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.8')" >
+                pass</a>
+
+            <div id='div_pt1.8' class="popup_window" style="display:block;">
+                <div style='text-align: right; color:red;cursor:pointer'>
+                <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.8').style.display = 'none' " >
+                   [x]</a>
+                </div>
+                <pre>
+                
+        pt1.8: 
+    
+                </pre>
+            </div>
+            <!--css div popup end-->
+
+            </td>
+        </tr>
+    
+        <tr id='pt1.9' class='none hiddenRow'>
+            <td class=''><div class='testcase'>test_get_room_list</div></td>
+            <td colspan='5' align='center'>
+
+            <!--css div popup start-->
+            <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.9')" >
+                pass</a>
+
+            <div id='div_pt1.9' class="popup_window" style="display:block;">
+                <div style='text-align: right; color:red;cursor:pointer'>
+                <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.9').style.display = 'none' " >
+                   [x]</a>
+                </div>
+                <pre>
+                
+        pt1.9: 
+    
+                </pre>
+            </div>
+            <!--css div popup end-->
+
+            </td>
+        </tr>
+    
+        <tr id='pt1.10' class='none hiddenRow'>
+            <td class=''><div class='testcase'>test_get_sdkroom_list</div></td>
+            <td colspan='5' align='center'>
+
+            <!--css div popup start-->
+            <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.10')" >
+                pass</a>
+
+            <div id='div_pt1.10' class="popup_window" style="display:block;">
+                <div style='text-align: right; color:red;cursor:pointer'>
+                <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.10').style.display = 'none' " >
+                   [x]</a>
+                </div>
+                <pre>
+                
+        pt1.10: 
+    
+                </pre>
+            </div>
+            <!--css div popup end-->
+
+            </td>
+        </tr>
+    
+            <tr id='total_row'>
+                <td>Total</td>
+                <td>10</td>
+                <td>9</td>
+                <td>1</td>
+                <td>0</td>
+                <td>&nbsp;</td>
+            </tr>
+        </table>
+
+    
+<div id='ending'>&nbsp;</div>
+
+</body>
+</html>
