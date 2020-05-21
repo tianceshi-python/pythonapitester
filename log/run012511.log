@@ -1,0 +1,71 @@
+2019-01-25 11:57:20,200 - simpleExample - INFO - starttest
+2019-01-25 11:57:20,331 - simpleExample - INFO - 批量查询企业云会议室
+2019-01-25 11:57:20,542 - simpleExample - ERROR - 批量查询企业云会议室: '9000043836' not found in u'[{"meettingRoomName":"yunyunyun","expireTime":-1,"password":"","meetingControlPwd":"123456","meetingRoomNumber":null,"meetingRoomState":"idle","autoMute":0,"smartMutePerson":6,"autoRecord":false,"recordAddDeviceName":false,"onlyRecordMainImage":false},{"meettingRoomName":"\u6570\u636e\u51c6\u5907","expireTime":-1,"password":"","meetingControlPwd":"456346","meetingRoomNumber":null,"meetingRoomState":"idle","autoMute":0,"smartMutePerson":6,"autoRecord":false,"recordAddDeviceName":false,"onlyRecordMainImage":false}]'
+2019-01-25 11:57:20,542 - simpleExample - ERROR - https://cloud.xylink.com/api/rest/external/v1/meetingInfo/batch?enterpriseId=e608e0f43963706372c006235c79d01890e82966&signature=6Fx%2FmuxVlfi73lrYZFNj1E4d6FDfAmLKCzp0VnvY2ec%3D
+2019-01-25 11:57:20,542 - simpleExample - ERROR - ["9000043836", "9000383751"]
+2019-01-25 11:57:20,552 - simpleExample - ERROR - [{"meettingRoomName":"yunyunyun","expireTime":-1,"password":"","meetingControlPwd":"123456","meetingRoomNumber":null,"meetingRoomState":"idle","autoMute":0,"smartMutePerson":6,"autoRecord":false,"recordAddDeviceName":false,"onlyRecordMainImage":false},{"meettingRoomName":"数据准备","expireTime":-1,"password":"","meetingControlPwd":"456346","meetingRoomNumber":null,"meetingRoomState":"idle","autoMute":0,"smartMutePerson":6,"autoRecord":false,"recordAddDeviceName":false,"onlyRecordMainImage":false}]
+2019-01-25 11:57:20,552 - simpleExample - INFO - 创建会议v1
+2019-01-25 11:57:20,680 - simpleExample - INFO - check ok:      "meetingNumber":"\d{12}"
+2019-01-25 11:57:20,680 - simpleExample - INFO - check ok:      "controlPassword":"\d{6}"
+2019-01-25 11:57:20,680 - simpleExample - INFO - check ok:      "shareUrl":"http://cloud.xylink.com/page/third/.*"
+2019-01-25 11:57:20,680 - simpleExample - INFO - check ok:      "password":""
+2019-01-25 11:57:21,681 - simpleExample - INFO - 查询会议
+2019-01-25 11:57:22,839 - simpleExample - INFO - 修改会议
+2019-01-25 11:57:23,983 - simpleExample - INFO - 修改后查询会议
+2019-01-25 11:57:25,137 - simpleExample - INFO - 删除会议
+2019-01-25 11:57:26,282 - simpleExample - INFO - 删除后查询会议
+2019-01-25 11:57:27,407 - simpleExample - INFO - 创建会议v1
+2019-01-25 11:57:27,546 - simpleExample - INFO - check ok:      "meetingNumber":"\d{12}"
+2019-01-25 11:57:27,548 - simpleExample - INFO - check ok:      "controlPassword":"\d{6}"
+2019-01-25 11:57:27,548 - simpleExample - INFO - check ok:      "shareUrl":"http://cloud.xylink.com/page/third/.*"
+2019-01-25 11:57:27,548 - simpleExample - INFO - check ok:      "password":"\d{6}"
+2019-01-25 11:57:28,549 - simpleExample - INFO - 查询会议
+2019-01-25 11:57:29,696 - simpleExample - INFO - 修改会议
+2019-01-25 11:57:30,861 - simpleExample - INFO - 修改后查询会议
+2019-01-25 11:57:32,009 - simpleExample - INFO - 删除会议
+2019-01-25 11:57:33,161 - simpleExample - INFO - 删除后查询会议
+2019-01-25 11:57:34,280 - simpleExample - INFO - 创建会议v1
+2019-01-25 11:57:34,433 - simpleExample - INFO - check ok:      "meetingNumber":"910010000100"
+2019-01-25 11:57:34,433 - simpleExample - INFO - check ok:      "controlPassword":"\d{6}"
+2019-01-25 11:57:34,433 - simpleExample - INFO - check ok:      "shareUrl":"http://cloud.xylink.com/page/third/.*"
+2019-01-25 11:57:34,433 - simpleExample - INFO - check ok:      "password":""
+2019-01-25 11:57:35,434 - simpleExample - INFO - 查询会议
+2019-01-25 11:57:36,569 - simpleExample - INFO - 修改会议
+2019-01-25 11:57:37,726 - simpleExample - INFO - 修改后查询会议
+2019-01-25 11:57:38,897 - simpleExample - INFO - 删除会议
+2019-01-25 11:57:40,053 - simpleExample - INFO - 删除后查询会议
+2019-01-25 11:57:41,183 - simpleExample - INFO - 创建会议v2
+2019-01-25 11:57:41,309 - simpleExample - INFO - check ok:      "meetingNumber":"\d{12}"
+2019-01-25 11:57:41,309 - simpleExample - INFO - check ok:      "controlPassword":"123456"
+2019-01-25 11:57:41,309 - simpleExample - INFO - check ok:      "shareUrl":"http://cloud.xylink.com/page/third/.*"
+2019-01-25 11:57:41,309 - simpleExample - INFO - check ok:      "password":""
+2019-01-25 11:57:42,311 - simpleExample - INFO - 查询会议
+2019-01-25 11:57:43,448 - simpleExample - INFO - 删除会议室
+2019-01-25 11:57:44,592 - simpleExample - INFO - 删除后查询会议
+2019-01-25 11:57:45,723 - simpleExample - INFO - 创建会议v2
+2019-01-25 11:57:45,869 - simpleExample - INFO - check ok:      "meetingNumber":"\d{12}"
+2019-01-25 11:57:45,871 - simpleExample - INFO - check ok:      "controlPassword":"\d{6}"
+2019-01-25 11:57:45,871 - simpleExample - INFO - check ok:      "shareUrl":"http://cloud.xylink.com/page/third/.*"
+2019-01-25 11:57:45,871 - simpleExample - INFO - check ok:      "password":"\d{6}"
+2019-01-25 11:57:46,871 - simpleExample - INFO - 查询会议
+2019-01-25 11:57:48,016 - simpleExample - INFO - 删除会议室
+2019-01-25 11:57:49,148 - simpleExample - INFO - 删除后查询会议
+2019-01-25 11:57:50,279 - simpleExample - INFO - 创建会议v2
+2019-01-25 11:57:50,464 - simpleExample - INFO - check ok:      "meetingNumber":"\d{12}"
+2019-01-25 11:57:50,464 - simpleExample - INFO - check ok:      "controlPassword":"123456"
+2019-01-25 11:57:50,464 - simpleExample - INFO - check ok:      "shareUrl":"http://cloud.xylink.com/page/third/.*"
+2019-01-25 11:57:50,464 - simpleExample - INFO - check ok:      "password":"\d{6}"
+2019-01-25 11:57:51,466 - simpleExample - INFO - 查询会议
+2019-01-25 11:57:52,621 - simpleExample - INFO - 删除会议室
+2019-01-25 11:57:53,743 - simpleExample - INFO - 删除后查询会议
+2019-01-25 11:57:54,865 - simpleExample - INFO - 创建会议v2
+2019-01-25 11:57:55,010 - simpleExample - INFO - check ok:      "meetingNumber":"\d{12}"
+2019-01-25 11:57:55,010 - simpleExample - INFO - check ok:      "controlPassword":"123456"
+2019-01-25 11:57:55,012 - simpleExample - INFO - check ok:      "shareUrl":"http://cloud.xylink.com/page/third/.*"
+2019-01-25 11:57:55,012 - simpleExample - INFO - check ok:      "password":"654321"
+2019-01-25 11:57:56,012 - simpleExample - INFO - 查询会议
+2019-01-25 11:57:57,150 - simpleExample - INFO - 删除会议室
+2019-01-25 11:57:58,286 - simpleExample - INFO - 删除后查询会议
+2019-01-25 11:57:59,407 - simpleExample - INFO - 查询企业云会议室
+2019-01-25 11:58:00,595 - simpleExample - INFO - 查询sdk会议室
+2019-01-25 11:58:01,996 - simpleExample - INFO - 查询企业sdk会议室

@@ -1,0 +1,1069 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6e619032-2523-430f-92ed-26c903348eb2" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pythonapitester.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conf/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conf/logging.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conf/pub_pre.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/run.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/run012415.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/run012511.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/run012512.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/run012513.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/run012811.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/run012911.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/run013000.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/Getsignatrue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/HTMLTestRunner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/HTMLTestRunnerCN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/HTMLTestRunnerEN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/HTMLTestRunnerNEW.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/Myrequests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/excelrd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/log.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/readconf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sendmail.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/test_HTMLTestRunnerCN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/test_HTMLTestRunnerEN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/result012512.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/result012513.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/result012811.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/result012911.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/result013000.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/starttest/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/starttest/gogogo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/123.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/test_conference_live.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/test_conference_statistics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/test_conferencecontrol.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/test_creat_sdkroom.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/test_meetingreminders.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/test_recording_video.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/test_sdk_basic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/test_sdk_login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/test_usermanagement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/tmp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/测试数据.xlsx" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/starttest/gogogo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="509">
+              <caret line="34" column="12" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="12" />
+              <folding>
+                <element signature="e#42#57#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testcase/test_conference_live.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="532">
+              <caret line="103" selection-start-line="103" selection-end-line="122" selection-end-column="13" />
+              <folding>
+                <element signature="n#!!doc" />
+                <element signature="e#1741#2952#0" />
+                <element signature="e#3007#3322#0" />
+                <element signature="e#6314#6450#0" />
+                <element signature="e#6714#6857#0" />
+                <element signature="e#7210#7715#0" />
+                <element signature="e#7757#7891#0" />
+                <element signature="e#8421#8561#0" />
+                <element signature="e#8940#9118#0" />
+                <element signature="e#9160#9309#0" />
+                <element signature="e#9819#9959#0" />
+                <element signature="e#10312#10913#0" />
+                <element signature="e#10955#11089#0" />
+                <element signature="e#11302#11381#0" />
+                <element signature="e#11707#11868#0" />
+                <element signature="e#12094#12207#0" />
+                <element signature="e#12547#12711#0" />
+                <element signature="e#13216#13353#0" />
+                <element signature="e#13706#14211#0" />
+                <element signature="e#14253#14387#0" />
+                <element signature="e#14832#14966#0" />
+                <element signature="e#15319#15829#0" />
+                <element signature="e#15871#16005#0" />
+                <element signature="e#16639#16808#0" />
+                <element signature="e#16850#16990#0" />
+                <element signature="e#17062#33318#0" />
+                <element signature="e#17587#17899#0" />
+                <element signature="e#18058#18714#0" />
+                <element signature="e#18757#18897#0" />
+                <element signature="e#19245#19926#0" />
+                <element signature="e#19968#20102#0" />
+                <element signature="e#20346#20482#0" />
+                <element signature="e#20746#20889#0" />
+                <element signature="e#21242#21834#0" />
+                <element signature="e#21877#22011#0" />
+                <element signature="e#22275#22512#0" />
+                <element signature="e#22814#22957#0" />
+                <element signature="e#23332#23955#0" />
+                <element signature="e#23997#24131#0" />
+                <element signature="e#24661#24801#0" />
+                <element signature="e#25164#25342#0" />
+                <element signature="e#25384#25533#0" />
+                <element signature="e#26021#26161#0" />
+                <element signature="e#26514#27219#0" />
+                <element signature="e#27261#27395#0" />
+                <element signature="e#27608#27687#0" />
+                <element signature="e#28013#28174#0" />
+                <element signature="e#28400#28513#0" />
+                <element signature="e#28853#29017#0" />
+                <element signature="e#29522#29659#0" />
+                <element signature="e#30012#30517#0" />
+                <element signature="e#30559#30693#0" />
+                <element signature="e#31138#31272#0" />
+                <element signature="e#31625#32135#0" />
+                <element signature="e#32177#32311#0" />
+                <element signature="e#32945#33114#0" />
+                <element signature="e#33156#33296#0" />
+                <element signature="e#33352#33388#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/testcase/test_conference_statistics.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="782">
+              <caret line="273" selection-start-line="273" selection-end-line="273" />
+              <folding>
+                <element signature="n#!!doc" />
+                <element signature="e#1890#3688#0" />
+                <element signature="e#2923#3090#0" />
+                <element signature="e#3487#3666#0" />
+                <element signature="e#3746#4234#0" />
+                <element signature="e#4100#4234#0" />
+                <element signature="e#4283#15567#0" />
+                <element signature="e#4595#4861#0" />
+                <element signature="e#4903#5052#0" />
+                <element signature="e#5409#5760#0" />
+                <element signature="e#5802#5954#0" />
+                <element signature="e#6397#6987#0" />
+                <element signature="e#7029#7199#0" />
+                <element signature="e#7606#8124#0" />
+                <element signature="e#8167#8340#0" />
+                <element signature="e#8794#9495#0" />
+                <element signature="e#9537#9743#0" />
+                <element signature="e#10225#11032#0" />
+                <element signature="e#11074#11283#0" />
+                <element signature="e#11697#12121#0" />
+                <element signature="e#12163#12348#0" />
+                <element signature="e#12723#12775#0" />
+                <element signature="e#12802#12939#0" />
+                <element signature="e#13324#13458#0" />
+                <element signature="e#13949#14149#0" />
+                <element signature="e#14192#14356#0" />
+                <element signature="e#14785#15335#0" />
+                <element signature="e#15131#15227#0" />
+                <element signature="e#15378#15545#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conf/logging.conf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conf/pub_pre.conf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="90" selection-start-line="17" selection-start-column="82" selection-end-line="17" selection-end-column="90" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/log/run012415.log">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1088">
+              <caret line="64" column="56" selection-start-line="64" selection-start-column="56" selection-end-line="64" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conf/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/test_HTMLTestRunnerCN.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/test_HTMLTestRunnerEN.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="22" column="41" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Unit Test" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ne2005</find>
+      <find>2005</find>
+      <find>ne60</find>
+      <find>60</find>
+      <find>soft</find>
+      <find>me20</find>
+      <find>me40</find>
+      <find>['userDevice']['deviceModel']</find>
+      <find>tvbox</find>
+      <find>simpleExample</find>
+      <find>info</find>
+      <find>conf_conferenceControl_meetingInfo</find>
+      <find>self.me40</find>
+      <find>number_SN</find>
+      <find>me4</find>
+      <find>assert_code</find>
+      <find>预约会议</find>
+      <find>startTime</find>
+      <find>random</find>
+      <find>utf</find>
+      <find>detail</find>
+      <find>none</find>
+      <find>window</find>
+      <find>display</find>
+      <find>toHide</find>
+      <find>popup_window</find>
+      <find>failClass</find>
+      <find>REPORT_TEST_WITH_OUTPUT_TMPL</find>
+      <find>xylink</find>
+      <find>conf_conferenceControl_lock</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>ne60</replace>
+      <replace>60</replace>
+      <replace>me20</replace>
+      <replace>me40</replace>
+      <replace>tvbox</replace>
+      <replace>['userDevice']['category']</replace>
+      <replace>me90</replace>
+      <replace>sn</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/public/sedmail.py" />
+        <option value="$PROJECT_DIR$/testcase/test1.py" />
+        <option value="$PROJECT_DIR$/testcase/创建会议/创建会议.py" />
+        <option value="$PROJECT_DIR$/testcase/查询会议.py" />
+        <option value="$PROJECT_DIR$/testcase/创建会议.conf" />
+        <option value="$PROJECT_DIR$/testcase/创建会议.py" />
+        <option value="$PROJECT_DIR$/gogogo.py" />
+        <option value="$PROJECT_DIR$/testcase/Conference_live.py" />
+        <option value="$PROJECT_DIR$/testcase/test_Usermanagement.py" />
+        <option value="$PROJECT_DIR$/log/logging.log" />
+        <option value="$PROJECT_DIR$/testcase/test_Recording_video.py" />
+        <option value="$PROJECT_DIR$/testcase/test_Conference_live.py" />
+        <option value="$PROJECT_DIR$/testcase/test_Conference_statistics.py" />
+        <option value="$PROJECT_DIR$/testcase/test_conferenceControl.py" />
+        <option value="$PROJECT_DIR$/testcase/test_creat.py" />
+        <option value="$PROJECT_DIR$/conf/pub.conf" />
+        <option value="$PROJECT_DIR$/public/HTMLTestRunnerCN.py" />
+        <option value="$PROJECT_DIR$/conf/logging.conf" />
+        <option value="$PROJECT_DIR$/testcase/test_usermanagement.py" />
+        <option value="$PROJECT_DIR$/testcase/test_sdk_login.py" />
+        <option value="$PROJECT_DIR$/testcase/test_meetingreminders.py" />
+        <option value="$PROJECT_DIR$/testcase/test_conference_live.py" />
+        <option value="$PROJECT_DIR$/public/excelrd.py" />
+        <option value="$PROJECT_DIR$/testcase/test_sdk_basic.py" />
+        <option value="$PROJECT_DIR$/testcase/test_recording_video.py" />
+        <option value="$PROJECT_DIR$/conf/pub_dev.conf" />
+        <option value="$PROJECT_DIR$/testcase/test_conference_statistics.py" />
+        <option value="$PROJECT_DIR$/public/log.py" />
+        <option value="$PROJECT_DIR$/public/sendmail.py" />
+        <option value="$PROJECT_DIR$/testcase/tmp.py" />
+        <option value="$PROJECT_DIR$/starttest/gogogo.py" />
+        <option value="$PROJECT_DIR$/public/HTMLTestRunnerNEW.py" />
+        <option value="$PROJECT_DIR$/conf/pub_pre.conf" />
+        <option value="$PROJECT_DIR$/testcase/test_creat_sdkroom.py" />
+        <option value="$PROJECT_DIR$/conf/pub_prd.conf" />
+        <option value="$PROJECT_DIR$/public/readconf.py" />
+        <option value="$PROJECT_DIR$/public/Myrequests.py" />
+        <option value="$PROJECT_DIR$/public/Getsignatrue.py" />
+        <option value="$PROJECT_DIR$/testcase/test_conferencecontrol.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="47" />
+    <option name="width" value="1364" />
+    <option name="height" value="726" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pythonapitester" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonapitester" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../EMPTest" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\myworkspace\git_back\pythonapitester\starttest" />
+      <recent name="C:\myworkspace\git练习\practice\pythonapitester\testcase" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\myworkspace\git_back\pythonapitester\public" />
+      <recent name="C:\myworkspace\git_back\pythonapitester\testcase" />
+      <recent name="C:\myworkspace\git_back\pythonapitester\conf" />
+      <recent name="C:\Users\yanghui\PycharmProjects\pythonapitester\public" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.gogogo">
+    <configuration name="Getsignatrue" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythonapitester" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/public" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/public/Getsignatrue.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Myrequests" type="PythonConfigurationType" factoryName="Python">
+      <module name="pythonapitester" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\ProgramData\Anaconda3\envs\py27\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/public" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/public/Myrequests.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python">
+      <module name="pythonapitester" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\ProgramData\Anaconda3\envs\py27\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\myworkspace\git_back\pythonapitester\starttest\gogogo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gogogo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythonapitester" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/starttest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/starttest/gogogo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tmp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythonapitester" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testcase/tmp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_conferencecontrol.conferenceControl.test_conferenceControl_b" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="pythonapitester" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_conferencecontrol.conferenceControl.test_conferenceControl_b&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_sdk_basic.sdk_basic_test.test_sdk_box" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="pythonapitester" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_sdk_basic.sdk_basic_test.test_sdk_box&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Myrequests" />
+      <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python.gogogo" />
+      <item itemvalue="Python.tmp" />
+      <item itemvalue="Python.Getsignatrue" />
+      <item itemvalue="Python tests.Unittests for test_sdk_basic.sdk_basic_test.test_sdk_box" />
+      <item itemvalue="Python tests.Unittests for test_conferencecontrol.conferenceControl.test_conferenceControl_b" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.gogogo" />
+        <item itemvalue="Python tests.Unittests for test_conferencecontrol.conferenceControl.test_conferenceControl_b" />
+        <item itemvalue="Python.Getsignatrue" />
+        <item itemvalue="Python tests.Unittests for test_sdk_basic.sdk_basic_test.test_sdk_box" />
+        <item itemvalue="Python.tmp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e619032-2523-430f-92ed-26c903348eb2" name="Default" comment="" />
+      <created>1533475323493</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533475323493</updated>
+      <workItem from="1550633910514" duration="674000" />
+      <workItem from="1552643309309" duration="599000" />
+      <workItem from="1560419392896" duration="35000" />
+      <workItem from="1564653698536" duration="773000" />
+      <workItem from="1564976469878" duration="852000" />
+      <workItem from="1565344566037" duration="599000" />
+      <workItem from="1567066271709" duration="893000" />
+      <workItem from="1570690758778" duration="599000" />
+      <workItem from="1571364138422" duration="599000" />
+      <workItem from="1573022328630" duration="58000" />
+      <workItem from="1573470552759" duration="632000" />
+      <workItem from="1573609766221" duration="1255000" />
+      <workItem from="1574763903969" duration="1839000" />
+      <workItem from="1575776685059" duration="605000" />
+      <workItem from="1576297033625" duration="1206000" />
+      <workItem from="1578731205389" duration="599000" />
+      <workItem from="1581067232060" duration="599000" />
+      <workItem from="1583721992830" duration="1276000" />
+      <workItem from="1583727096402" duration="715000" />
+      <workItem from="1584435441250" duration="630000" />
+      <workItem from="1584440643224" duration="23000" />
+      <workItem from="1584441363142" duration="615000" />
+      <workItem from="1585280509874" duration="598000" />
+      <workItem from="1589946915540" duration="664000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_test_creat_sdkroom_create_meeting_v1_test_batch_get_room - 2019.01.25 at 11h 09m 30s.xml">
+      <configuration name="Unittests for test_creat_sdkroom.create_meeting_v1.test_batch_get_room" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_creat_sdkroom_create_meeting_v1_test_batch_get_room - 2019.01.25 at 11h 09m 58s.xml">
+      <configuration name="Unittests for test_creat_sdkroom.create_meeting_v1.test_batch_get_room" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_sdk_basic_sdk_basic_test_test_sdk_box - 2019.01.29 at 14h 37m 02s.xml">
+      <configuration name="Unittests for test_sdk_basic.sdk_basic_test.test_sdk_box" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_conferencecontrol_conferenceControl_test_conferenceControl_b - 2019.01.29 at 15h 04m 26s.xml">
+      <configuration name="Unittests for test_conferencecontrol.conferenceControl.test_conferenceControl_b" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_conferencecontrol_conferenceControl_test_conferenceControl_b - 2019.01.29 at 15h 16m 29s.xml">
+      <configuration name="Unittests for test_conferencecontrol.conferenceControl.test_conferenceControl_b" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_conferencecontrol_conferenceControl_test_conferenceControl_b - 2019.01.29 at 15h 29m 22s.xml">
+      <configuration name="Unittests for test_conferencecontrol.conferenceControl.test_conferenceControl_b" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_conferencecontrol_conferenceControl_test_conferenceControl_b - 2019.01.29 at 15h 44m 21s.xml">
+      <configuration name="Unittests for test_conferencecontrol.conferenceControl.test_conferenceControl_b" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_conferencecontrol_conferenceControl_test_conferenceControl_b - 2019.01.29 at 15h 51m 37s.xml">
+      <configuration name="Unittests for test_conferencecontrol.conferenceControl.test_conferenceControl_b" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_conferencecontrol_conferenceControl_test_conferenceControl_b - 2019.01.29 at 15h 55m 57s.xml">
+      <configuration name="Unittests for test_conferencecontrol.conferenceControl.test_conferenceControl_b" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_conferencecontrol_conferenceControl_test_conferenceControl_b - 2019.01.29 at 15h 59m 21s.xml">
+      <configuration name="Unittests for test_conferencecontrol.conferenceControl.test_conferenceControl_b" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="16937000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="47" width="1364" height="726" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28911042" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="0" />
+      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info anchor="bottom" id="Find" order="3" weight="0.3286517" />
+      <window_info anchor="bottom" id="Run" order="4" sideWeight="0.5695469" weight="0.6627155" />
+      <window_info anchor="bottom" id="Debug" order="5" sideWeight="0.49114582" weight="0.13900863" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="8" sideWeight="0.49947312" weight="0.3297414" />
+      <window_info anchor="bottom" id="Statistic" order="9" sideWeight="0.49841937" visible="true" weight="0.1994382" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49947312" weight="0.3297414" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5015806" side_tool="true" weight="0.69181037" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Python Console" order="13" sideWeight="0.49947312" weight="0.3297414" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="SciView" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/testcase/test_sdk_basic.py</url>
+          <line>377</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/testcase/test_usermanagement.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/testcase/test_conference_live.py</url>
+          <line>63</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/public/logging.log1" />
+    <entry file="file://$PROJECT_DIR$/public/logging.log" />
+    <entry file="file://$PROJECT_DIR$/testcase/创建会议.conf" />
+    <entry file="file://$PROJECT_DIR$/../tmpfile/Prd_Actions.py" />
+    <entry file="file://C:/ProgramData/Anaconda3/envs/py27/Lib/site-packages/urllib3/connectionpool.py" />
+    <entry file="file://$PROJECT_DIR$/testcase/test1.py" />
+    <entry file="file://C:/ProgramData/Anaconda3/envs/py27/Lib/unittest/loader.py" />
+    <entry file="file://C:/ProgramData/Anaconda3/envs/py27/Lib/StringIO.py" />
+    <entry file="file://$PROJECT_DIR$/testcase/test_创建会议.py" />
+    <entry file="file://$PROJECT_DIR$/testcase/test_查询会议.py" />
+    <entry file="file://$PROJECT_DIR$/log/logging012218.log" />
+    <entry file="file://C:/ProgramData/Anaconda3/envs/py27/Lib/logging/config.py" />
+    <entry file="file://C:/ProgramData/Anaconda3/envs/py27/Lib/ConfigParser.py" />
+    <entry file="file://$PROJECT_DIR$/testcase/test_usermanagement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-15952">
+          <caret line="230" column="8" selection-start-line="230" selection-start-column="8" selection-end-line="230" selection-end-column="8" />
+          <folding>
+            <element signature="e#43#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/test_recording_video.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="882">
+          <caret line="53" column="68" selection-start-line="53" selection-start-column="42" selection-end-line="53" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/tmp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="666">
+          <caret line="40" column="38" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/HTMLTestRunnerNEW.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="683" selection-start-line="683" selection-end-line="683" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/HTMLTestRunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="108" column="49" selection-start-line="108" selection-start-column="35" selection-end-line="108" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/HTMLTestRunnerCN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="328" column="41" selection-start-line="328" selection-start-column="41" selection-end-line="328" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/test_sdk_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="107" column="21" lean-forward="true" selection-start-line="107" selection-start-column="21" selection-end-line="107" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/test_sdk_basic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2477">
+          <caret line="236" column="28" selection-start-line="236" selection-start-column="28" selection-end-line="236" selection-end-column="28" />
+          <folding>
+            <element signature="n#!!doc" />
+            <element signature="e#1279#2577#0" />
+            <element signature="e#11247#11410#0" />
+            <element signature="e#17615#19271#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/ProgramData/Anaconda3/envs/py27/Lib/unittest/case.py" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/teamcity/diff_tools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/ProgramData/Anaconda3/envs/py27/Lib/logging/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/testcase/test_conferencecontrol.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5364">
+          <caret line="301" column="71" selection-start-line="301" selection-start-column="71" selection-end-line="301" selection-end-column="71" />
+          <folding>
+            <element signature="e#43#58#0" expanded="true" />
+            <element signature="e#25840#25876#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/pub_prd.conf" />
+    <entry file="file://$PROJECT_DIR$/public/log.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="27" column="12" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/pub_dev.conf" />
+    <entry file="file://$PROJECT_DIR$/public/readconf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" column="7" selection-start-line="20" selection-end-line="20" selection-end-column="7" />
+          <folding>
+            <element signature="e#42#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/Myrequests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="14" column="11" selection-start-line="14" selection-end-line="15" />
+          <folding>
+            <element signature="e#42#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/test_meetingreminders.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="60" column="55" selection-start-line="60" selection-start-column="55" selection-end-line="60" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/test_creat_sdkroom.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="20" column="34" selection-start-line="20" selection-end-line="20" selection-end-column="34" />
+          <folding>
+            <element signature="n#!!doc" />
+            <element signature="e#1267#1496#0" />
+            <element signature="e#1686#1765#0" />
+            <element signature="e#1714#1745#0" />
+            <element signature="e#1807#8787#0" />
+            <element signature="e#2020#2037#0" />
+            <element signature="e#2569#2867#0" />
+            <element signature="e#2717#2867#0" />
+            <element signature="e#2994#3462#0" />
+            <element signature="e#3102#3462#0" />
+            <element signature="e#3127#3238#0" />
+            <element signature="e#3296#3462#0" />
+            <element signature="e#3574#3687#0" />
+            <element signature="e#4211#4657#0" />
+            <element signature="e#4329#4657#0" />
+            <element signature="e#4491#4657#0" />
+            <element signature="e#4892#5315#0" />
+            <element signature="e#5652#5849#0" />
+            <element signature="e#6247#6975#0" />
+            <element signature="e#7017#7205#0" />
+            <element signature="e#7746#7943#0" />
+            <element signature="e#8342#8535#0" />
+            <element signature="e#8577#8765#0" />
+            <element signature="e#8831#10846#0" />
+            <element signature="e#9336#9811#0" />
+            <element signature="e#9854#10027#0" />
+            <element signature="e#10429#10599#0" />
+            <element signature="e#10642#10824#0" />
+            <element signature="e#10891#11951#0" />
+            <element signature="e#11419#11735#0" />
+            <element signature="e#11500#11592#0" />
+            <element signature="e#11777#11929#0" />
+            <element signature="e#12345#12501#0" />
+            <element signature="e#12543#12701#0" />
+            <element signature="e#12773#17335#0" />
+            <element signature="e#13607#13905#0" />
+            <element signature="e#13755#13905#0" />
+            <element signature="e#14032#14504#0" />
+            <element signature="e#14140#14504#0" />
+            <element signature="e#14165#14280#0" />
+            <element signature="e#14338#14504#0" />
+            <element signature="e#14616#14729#0" />
+            <element signature="e#15253#15753#0" />
+            <element signature="e#15371#15753#0" />
+            <element signature="e#15533#15753#0" />
+            <element signature="e#16296#16493#0" />
+            <element signature="e#16892#17083#0" />
+            <element signature="e#17125#17313#0" />
+            <element signature="e#17394#17745#0" />
+            <element signature="e#17433#17745#0" />
+            <element signature="e#17748#17781#0" />
+            <element signature="e#17893#17929#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/run.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/sendmail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+          <folding>
+            <element signature="e#63#77#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/excelrd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/Getsignatrue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1156">
+          <caret line="79" column="28" selection-start-line="79" selection-start-column="28" selection-end-line="79" selection-end-column="28" />
+          <folding>
+            <element signature="e#42#57#0" expanded="true" />
+            <element signature="e#241#352#0" />
+            <element signature="e#387#718#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/logging.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/pub_pre.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="90" selection-start-line="17" selection-start-column="82" selection-end-line="17" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/run012415.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1088">
+          <caret line="64" column="56" selection-start-line="64" selection-start-column="56" selection-end-line="64" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/test_HTMLTestRunnerCN.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/test_HTMLTestRunnerEN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="22" column="41" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/starttest/gogogo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="34" column="12" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="12" />
+          <folding>
+            <element signature="e#42#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/test_conference_live.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="103" selection-start-line="103" selection-end-line="122" selection-end-column="13" />
+          <folding>
+            <element signature="n#!!doc" />
+            <element signature="e#1741#2952#0" />
+            <element signature="e#3007#3322#0" />
+            <element signature="e#6314#6450#0" />
+            <element signature="e#6714#6857#0" />
+            <element signature="e#7210#7715#0" />
+            <element signature="e#7757#7891#0" />
+            <element signature="e#8421#8561#0" />
+            <element signature="e#8940#9118#0" />
+            <element signature="e#9160#9309#0" />
+            <element signature="e#9819#9959#0" />
+            <element signature="e#10312#10913#0" />
+            <element signature="e#10955#11089#0" />
+            <element signature="e#11302#11381#0" />
+            <element signature="e#11707#11868#0" />
+            <element signature="e#12094#12207#0" />
+            <element signature="e#12547#12711#0" />
+            <element signature="e#13216#13353#0" />
+            <element signature="e#13706#14211#0" />
+            <element signature="e#14253#14387#0" />
+            <element signature="e#14832#14966#0" />
+            <element signature="e#15319#15829#0" />
+            <element signature="e#15871#16005#0" />
+            <element signature="e#16639#16808#0" />
+            <element signature="e#16850#16990#0" />
+            <element signature="e#17062#33318#0" />
+            <element signature="e#17587#17899#0" />
+            <element signature="e#18058#18714#0" />
+            <element signature="e#18757#18897#0" />
+            <element signature="e#19245#19926#0" />
+            <element signature="e#19968#20102#0" />
+            <element signature="e#20346#20482#0" />
+            <element signature="e#20746#20889#0" />
+            <element signature="e#21242#21834#0" />
+            <element signature="e#21877#22011#0" />
+            <element signature="e#22275#22512#0" />
+            <element signature="e#22814#22957#0" />
+            <element signature="e#23332#23955#0" />
+            <element signature="e#23997#24131#0" />
+            <element signature="e#24661#24801#0" />
+            <element signature="e#25164#25342#0" />
+            <element signature="e#25384#25533#0" />
+            <element signature="e#26021#26161#0" />
+            <element signature="e#26514#27219#0" />
+            <element signature="e#27261#27395#0" />
+            <element signature="e#27608#27687#0" />
+            <element signature="e#28013#28174#0" />
+            <element signature="e#28400#28513#0" />
+            <element signature="e#28853#29017#0" />
+            <element signature="e#29522#29659#0" />
+            <element signature="e#30012#30517#0" />
+            <element signature="e#30559#30693#0" />
+            <element signature="e#31138#31272#0" />
+            <element signature="e#31625#32135#0" />
+            <element signature="e#32177#32311#0" />
+            <element signature="e#32945#33114#0" />
+            <element signature="e#33156#33296#0" />
+            <element signature="e#33352#33388#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/test_conference_statistics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="273" selection-start-line="273" selection-end-line="273" />
+          <folding>
+            <element signature="n#!!doc" />
+            <element signature="e#1890#3688#0" />
+            <element signature="e#2923#3090#0" />
+            <element signature="e#3487#3666#0" />
+            <element signature="e#3746#4234#0" />
+            <element signature="e#4100#4234#0" />
+            <element signature="e#4283#15567#0" />
+            <element signature="e#4595#4861#0" />
+            <element signature="e#4903#5052#0" />
+            <element signature="e#5409#5760#0" />
+            <element signature="e#5802#5954#0" />
+            <element signature="e#6397#6987#0" />
+            <element signature="e#7029#7199#0" />
+            <element signature="e#7606#8124#0" />
+            <element signature="e#8167#8340#0" />
+            <element signature="e#8794#9495#0" />
+            <element signature="e#9537#9743#0" />
+            <element signature="e#10225#11032#0" />
+            <element signature="e#11074#11283#0" />
+            <element signature="e#11697#12121#0" />
+            <element signature="e#12163#12348#0" />
+            <element signature="e#12723#12775#0" />
+            <element signature="e#12802#12939#0" />
+            <element signature="e#13324#13458#0" />
+            <element signature="e#13949#14149#0" />
+            <element signature="e#14192#14356#0" />
+            <element signature="e#14785#15335#0" />
+            <element signature="e#15131#15227#0" />
+            <element signature="e#15378#15545#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
